@@ -1,0 +1,21 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
